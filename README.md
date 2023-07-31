@@ -1,4 +1,4 @@
-This is a credit risk model pertaining to retail loans. PD, LGD and EAD will be assessed.
+This is a credit risk model pertaining to retail loans. PD, LGD and EAD will be assessed.<br>
 Dataset contains over 800,000 rows, and the dataset's period ranges from 2007 to 2015.
 
 The Dataset has numerous categorical and continuous variables which will be binned using the WoE (Weight of Evidence) and IV method.
