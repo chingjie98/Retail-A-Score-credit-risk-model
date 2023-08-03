@@ -6,5 +6,4 @@ This model's probability of default prediction will be built using Decision Tree
 
 Lastly, the model's validation will be tested using AUC-ROC curve as this is a largely imbalanced dataset. Hence, a normal accuracy TP FP test won't be an accurate assessment. 
 
-I am building this model as a replica of my current work in my current company.
-This work is still ongoing as I am building it after work / on my off days. 
+The PD will then be converted into Scorecard via linear transformation, and respective cut-offs will be assigned. 
