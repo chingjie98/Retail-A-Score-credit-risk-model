@@ -7,3 +7,5 @@ This model's probability of default prediction will be built using Decision Tree
 Lastly, the model's validation will be tested using AUC-ROC, Gini and KS curve as this is a largely imbalanced dataset. Hence, a normal accuracy TP FP test won't be an accurate assessment. 
 
 The PD will then be converted into Scorecard via normalization, and respective cut-offs will be assigned. 
+
+Other algorithms such as Decision Tree, Random Forest, XgBoost and Deep Learning (ANN) will be experimented to test against Logistic Regression results.
