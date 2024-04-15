@@ -9,5 +9,5 @@ The PD will then be converted into Scorecard via normalization, and respective c
 
 Other algorithms such as Decision Tree, Random Forest, XgBoost and Deep Learning (ANN) will be experimented to test against Logistic Regression results.
 
-•	Algorithms Used: Logistic Regression, Decision Tree, Random Forest, XgBoost
+•	Algorithms Used: Logistic Regression, Decision Tree, Random Forest, XgBoost<br>
 •	Techniques Involved: Weight of Evidence, Information Value, Fine classing, Coarse classing, Gini Coefficient, AUC-ROC, Kolmogorov–Smirnov Test, p-value, Normalization of PD into useable scores, SMOTE, Oversampling of Bads, Model Calibration. 
